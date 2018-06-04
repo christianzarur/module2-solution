@@ -23,10 +23,17 @@ h1 {
     color: white;
     text-align: right
 }
+
+#titulo{
+    float: right; 
+}
+
 #titulo1{
     border: 1px solid black;
     background: rgb(206, 97, 97);
     text-align: right;
+    width: 65px;
+    margin: 0%;
 }
 /* Simple Responsive Framework. */
 
